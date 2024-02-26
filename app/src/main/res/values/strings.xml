@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">NoteWave</string>
+    <string name="new_note">New note</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="change_title">Change title</string>
+    <string name="note_deleted">Note deleted</string>
+
+    <string name="my_notes">My Notes</string>
+    <string name="delete_selected_items">Delete selected items</string>
+    <string name="delete_item_message">Are you sure you want to delete the selected items?</string>
+
+
+    <string name="title">Title</string>
+    <string name="contents">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec orci suscipit, tristique orci sed, tempor dui. Sed luctus, sapien vitae ullamcorper lacinia, ligula odio dignissim velit, eget aliquet turpis tortor nec lorem. Sed vel vehicula massa. Proin nisi turpis, lacinia at semper vel, tincidunt in nibh. Cras id mi fermentum, fringilla velit non, congue tortor. Vestibulum lacinia pretium enim, et ornare elit consectetur non. Mauris finibus bibendum erat, id condimentum nisl congue ut.</string>
+
+    <string name="add_new_note">Add New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="test_note">Test Note</string>
+    <string name="no_note">Add new note now…</string>
+    <string name="enter_title_note">Enter title and note!!!</string>
+
+</resources>
